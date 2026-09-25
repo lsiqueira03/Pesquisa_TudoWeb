@@ -29,6 +29,14 @@ No teste realizado, foram obtidos:
 - 3 respostas EXCELENTE
 - 3 respostas RUIM
 
+### Código desenvolvido
+
+![Código do programa](prints/Código.png)
+
+### Teste com 10 entrevistados
+
+![Teste com 10 entrevistados](prints/Teste_10_entrevistados.png)
+
 Após a validação, o programa foi configurado para realizar a pesquisa com 50 entrevistados.
 
 ## Tecnologias utilizadas
