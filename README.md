@@ -25,9 +25,13 @@ Ao final, são exibidas as quantidades de respostas "EXCELENTE" e "RUIM".
 
 Para validar o funcionamento do programa, foi realizado um teste com 10 entrevistados.
 
-No teste realizado, foram obtidos:
+No teste realizado com 10 entrevistados, foram obtidos:
+
 - 3 respostas EXCELENTE
+- 4 respostas BOM
 - 3 respostas RUIM
+
+Conforme solicitado na atividade, o programa exibe ao final a quantidade de respostas EXCELENTE e RUIM.
 
 ### Código desenvolvido
 
